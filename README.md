@@ -7,4 +7,4 @@ Demonstração do código (video):
 https://github.com/user-attachments/assets/cbc1d237-e9d0-4dbe-9e99-74e9548c5f2d
 
 Manual do Usuário (PDF):
-[Manual_Do_Usurio.pdf](https://github.com/user-attachments/files/20908994/Manual_Do_Usurio.pdf)
+[Manual_Do_Usurio.pdf](https://github.com/user-attachments/files/20909031/Manual_Do_Usurio.pdf)
